@@ -1,0 +1,19 @@
+{
+  "name": "Video_formatting_electron",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^16.0.0"
+  },
+  "dependencies": {
+    "jquery": "^3.6.0",
+    "random-string": "^0.2.0"
+  }
+}
